@@ -10,6 +10,7 @@
     </message>
     <message>
         <location filename="objectdetect.ui" line="202"/>
+        <location filename="objectdetect.ui" line="428"/>
         <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
