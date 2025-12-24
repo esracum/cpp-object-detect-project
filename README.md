@@ -21,7 +21,7 @@ Drone kamerasından alınan simüle edilmiş görüntüler üzerinde **YOLOv8** 
 ## Veri Seti Bilgisi
 
 Model, Kaggle üzerinde paylaşılan ve TEKNOFEST yarışmalarına uygun olarak hazırlanan **Autonomous Drone Landing Dataset** kullanılarak eğitilmiştir.
-* **Erişim:** [Kaggle - Autonomous Drone Landing Dataset](https://www.kaggle.com/datasets/esracum/autonomous-drone-landing-dataset-teknofest)
+* [Kaggle - Autonomous Drone Landing Dataset](https://www.kaggle.com/datasets/esracum/autonomous-drone-landing-dataset-teknofest)
 
 ## Demo ve Anlatım
 
