@@ -1,6 +1,6 @@
 # Otonom İHA İniş Alanı Tespit Sistemi (C++ & Qt & YOLOv8)
 
-Bu proje, insansız hava araçlarının (İHA) otonom iniş süreçlerini desteklemek amacıyla geliştirilmiş yüksek performanslı bir nesne tespit sistemidir. 
+Bu proje, insansız hava araçlarının (İHA) otonom iniş süreçlerini desteklemek amacıyla geliştirilmiş bir nesne tespit sistemidir. 
 Drone kamerasından alınan simüle edilmiş görüntüler üzerinde **YOLOv8** mimarisi kullanılarak güvenli iniş bölgeleri ve engeller gerçek zamanlı olarak tespit edilmektedir.
 
 <img width="1920" height="1080" alt="arayuz" src="https://github.com/user-attachments/assets/aa7f1b11-bda0-43bd-985b-f6cdbc3bf947" />
