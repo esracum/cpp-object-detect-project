@@ -3,8 +3,7 @@
 Bu proje, insansız hava araçlarının (İHA) otonom iniş süreçlerini desteklemek amacıyla geliştirilmiş bir nesne tespit sistemidir. 
 Drone kamerasından alınan simüle edilmiş görüntüler üzerinde **YOLOv8** mimarisi kullanılarak güvenli iniş bölgeleri ve engeller gerçek zamanlı olarak tespit edilmektedir.
 
-<img width="1920" height="1080" alt="arayuz" src="https://github.com/user-attachments/assets/aa7f1b11-bda0-43bd-985b-f6cdbc3bf947" />
-
+https://github.com/user-attachments/assets/b6032767-ee6d-42aa-af0b-8164bc3b08b7
 
 ## Teknik Özellikler
 
